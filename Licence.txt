@@ -1,0 +1,92 @@
+Version 1.0
+
+
+
+1 Définitions
+
+
+Logiciel: Désigne le logiciel de cryptographie Mackedzoa, y compris son code source, sa documentation et tout autre matériel fourni avec le logiciel.
+
+Licence: Désigne cette licence de logiciel libre.
+
+Droits d'Auteur: Désignent les droits exclusifs de l'auteur sur le Logiciel, y compris le droit de reproduction, de modification, de distribution et de création d'œuvres dérivées.
+
+Détenteur de Droits d'Auteur: Désigne Edzoa Ahanda Cyrille Mackenzy Bryan, l'auteur du Logiciel.
+
+Utilisateur: Désigne toute personne physique ou morale qui utilise le Logiciel.
+
+
+2. Concession de Licence
+
+
+Par la présente, le Détenteur de Droits d'Auteur accorde à l'Utilisateur une licence non exclusive, mondiale et gratuite d'utiliser, de modifier, de distribuer et de créer des œuvres dérivées du Logiciel sous les termes et conditions de cette Licence.
+
+
+
+3. Droits de l'Utilisateur
+
+
+L'Utilisateur est autorisé à :
+
+Utiliser le Logiciel à toutes fins, y compris à des fins commerciales.
+
+Modifier le Logiciel et créer des œuvres dérivées du Logiciel.
+Distribuer le Logiciel à des tiers, sous forme binaire ou sous forme de code source, gratuitement ou contre rémunération.
+
+Accéder au code source du Logiciel, qui sera disponible sur le site web GitHub du Détenteur de Droits d'Auteur dès que possible.
+
+
+4. Restrictions
+
+
+L'Utilisateur n'est pas autorisé à :
+
+
+Modifier le nom Mackedzoa des fenêtres avant de partager le Logiciel avec des tiers.
+
+Modifier l'extension utilsé partout dans le logiciel '.mck' du Logiciel.
+
+
+5. Résiliation de la Licence
+
+
+Cette Licence sera résiliée automatiquement si l'Utilisateur viole l'une des dispositions de cette Licence.
+En cas de résiliation, l'Utilisateur devra cesser immédiatement d'utiliser le Logiciel et détruire toutes les copies du Logiciel en sa possession ou sous son contrôle.
+
+
+
+6. Exclusion de Garantie
+
+
+LE LOGICIEL EST FOURNI "TEL QUEL" SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+LE DÉTENTEUR DE DROITS D'AUTEUR N'EST EN AUCUN CAS RESPONSABLE DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE, SPÉCIAL, CONSÉQUENTIEL OU EXEMPLAIRE, Y COMPRIS, MAIS SANS S'Y LIMITER, LA PERTE DE PROFITS, D'UTILISATION, DE DONNÉES OU
+D'AUTRES PERTES INCOMMERCIALES, RÉSULTANT DE L'UTILISATION OU DE L'IMPOSSIBILITÉ D'UTILISER LE LOGICIEL.
+MÊME SI LE DÉTENTEUR DE DROITS D'AUTEUR A ÉTÉ INFORMÉ DE LA POSSIBILITÉ DE TELS DOMMAGES.
+
+
+
+7. Loi Applicable et Juridiction
+
+
+Cette Licence est régie et interprétée conformément aux lois du Cameroun.
+Tout litige découlant de ou lié à cette Licence sera soumis à la juridiction exclusive des tribunaux compétents du Cameroun.
+
+
+
+8. Dispositions Générales
+
+
+Cette Licence constitue l'intégralité de l'accord entre le Détenteur de Droits d'Auteur et l'Utilisateur concernant le Logiciel et remplace tous les accords, écrits ou oraux, antérieurs relatifs au Logiciel.
+Si une disposition de cette Licence est jugée invalide ou inapplicable, cette disposition sera exclue de cette Licence et les autres dispositions resteront en vigueur.
+Cette Licence peut être modifiée par le Détenteur de Droits d'Auteur en publiant une nouvelle version de la Licence sur son site web GitHub.
+L'Utilisateur est lié par la version de la Licence en vigueur au moment de l'utilisation du Logiciel.
+
+
+
+9. Droits d'Auteur
+
+Copyright (c) 2024 Mackedzoa.
+Tous droits réservés.
+
+
+En acceptant d'utiliser le Logiciel, l'Utilisateur déclare avoir lu et compris cette Licence et accepte d'être lié par ses termes et conditions.
