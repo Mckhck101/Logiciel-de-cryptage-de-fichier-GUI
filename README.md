@@ -87,16 +87,8 @@ pip install pyperclip
 Exécuter le script principal :
 
 ```
-python mackedzoa.py
+python Hasher 3 GUI.py
 ```
-
-ou
-
-```
-python main.py
-```
-
-(selon le nom du fichier)
 
 ---
 
